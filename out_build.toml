@@ -1,0 +1,8 @@
+project = "my_app"
+
+[settings]
+optimize = 3
+target = "x86_64"
+
+[tests]
+enabled = "yes"

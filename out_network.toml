@@ -1,0 +1,6 @@
+host = "example.com"
+port = 1016
+
+[credentials]
+user = "admin"
+password = "secret"

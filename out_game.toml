@@ -1,0 +1,8 @@
+[player]
+name = "Hero"
+hp = 80
+mana = 128
+
+[world]
+name = "FantasyLand"
+difficulty = "normal"
